@@ -4,4 +4,4 @@
 
 ## Code
 ![addition of two 8-bit numbers](addTwoEightBits.png)
-[Click Here for code file](addTwoEightBits.asm)
+[Click Here for code](addTwoEightBits.asm)

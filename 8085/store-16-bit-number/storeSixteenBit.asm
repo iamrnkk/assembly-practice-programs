@@ -1,0 +1,3 @@
+	   LXI H,1440
+	   SHLD 3500
+	   HLT
