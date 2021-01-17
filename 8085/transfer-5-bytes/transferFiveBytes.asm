@@ -1,4 +1,4 @@
-	   LXI H,2000 ; Loading starting souce destination
+	   LXI H,2000 ; Loading starting source destination
 	   LXI D,3000 ; Loading starting destination location
 	   MVI C,05	 ; Counter Register for looping 5 times
 
