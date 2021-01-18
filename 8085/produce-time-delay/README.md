@@ -1,4 +1,4 @@
-# Find Largest Number
+# Produce Time Delay
 
 **write a delay routine to produce a time delay of 0.5 MHZ in 8085 procesor-based-system whose is clock source is 6 MHz quartz crystal**
 
@@ -15,7 +15,7 @@
    &emsp;= 1500
 
 4- write the code for time delay
-![Find Largest Number](timeDelay.png)
+![produce time delay](timeDelay.png)
 
 5- Now, how many times the loop should be iterated ?\
    total T states =\
