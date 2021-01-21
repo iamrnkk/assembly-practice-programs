@@ -1,12 +1,12 @@
 # Produce Time Delay
 
-**write a delay routine to produce a time delay of 0.5 MHZ in 8085 procesor-based-system whose is clock source is 6 MHz quartz crystal**
+**write a delay routine to produce a time delay of 0.5 ms in 8085 procesor-based-system whose is clock source is 6 MHz quartz crystal**
 
 ## Approach
 
 1- clock frequency = 1/2 of crystal frequency => clock frequency = 3 (6/2) MHz
 
-2- T = 1/clock frequency => T= 0.33 MHz
+2- T = 1/clock frequency => T= 0.33 micros
 
 3- Now we need to find required T states to produce time delay\ 
    Required T states\
