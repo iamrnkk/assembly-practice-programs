@@ -12,3 +12,8 @@ this repository contains basic assembly language programs to practice for beginn
 6. [Find Largest Number](8085/largest-number)
 7. [Multiply Two 8-bit Numbers](8085/multiply-8-bits)
 8. [Produce Time Delay](8085/produce-time-delay)
+
+
+## Programs (8051)
+
+1. [blinking LED](8051/blinkingLED)
